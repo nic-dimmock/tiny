@@ -1,0 +1,14 @@
+{
+  "name": "@moo-cow/tiny",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "nic-dimmock/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "nicdim"
+  ]
+}
