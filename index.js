@@ -1,3 +1,7 @@
+
+// npm package  @moo-cow/tiny
+// git repo  nic-dimmock/tiny
+
 module.exports.tiny = function(string) {
     if (typeof string !== "string") throw new TypeError("Tiny wants a string!");
     return string.replace(/\s/g, "");
