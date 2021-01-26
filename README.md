@@ -11,14 +11,9 @@ to use:
 
 `const tiny = require('@moo-cow/tiny');`
 
-`tiny.tiny("remove my spaces!")
-// removemyspaces
-`
+`tiny.tiny("remove my spaces!")  // removemyspaces! `
 
-`
-tiny.capital("stop shouting")
-// STOP SHOUTING
-`
+`tiny.capital("stop shouting")  // STOP SHOUTING `
 
-
+Git repo: [https://github.com/nic-dimmock/tiny](https://github.com/nic-dimmock/tiny)
 
