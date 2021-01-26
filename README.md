@@ -9,13 +9,16 @@ To install
 
 to use:
 
-const tiny = require('@moo-cow/tiny');
+`const tiny = require('@moo-cow/tiny');`
 
 `tiny.tiny("remove my spaces!")
 // removemyspaces
 `
 
+`
 tiny.capital("stop shouting")
 // STOP SHOUTING
 `
+
+
 
